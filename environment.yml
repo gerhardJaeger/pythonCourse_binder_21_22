@@ -9,3 +9,5 @@ dependencies:
   - bokeh
   - rise
   - jupyter_nbextensions_configurator
+  - nltk
+  
